@@ -1,0 +1,15 @@
+.socorro{
+    font-size: 15pt;
+    color: #ffbb33;
+   padding:0.6em;
+   background-color: #222; 
+   text-decoration: none;
+   transition: 500ms;
+   border-radius: 10px;
+  font-weight: bold;
+   
+}
+.socorro:hover{
+   font-size: 17pt;
+ 
+}

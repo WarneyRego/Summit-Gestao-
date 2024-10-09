@@ -1,0 +1,21 @@
+footer {
+    position: absolute;
+}
+
+.newproject_container {
+    width: 800px;
+    margin: 3em auto;
+    margin-left: 3em;
+    padding: 3em;
+   
+}
+
+.newproject_container h1 {
+    margin-bottom: 0.5em;
+    
+}
+
+.newproject_container p {
+    color: #7b7b7b;
+   
+}

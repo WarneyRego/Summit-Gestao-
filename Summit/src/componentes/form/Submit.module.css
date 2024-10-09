@@ -1,0 +1,21 @@
+.btn{
+    margin-top: 2em;
+    padding: 15px;
+    justify-content: center;
+    width: 40%;
+    align-items: center;
+    cursor: pointer;
+    background-color: #222;
+    color: whitesmoke;
+  transition: 400ms;
+    border: none;
+    border-radius: 20px;
+}
+.btn:hover{
+   
+    padding: 18px;
+    background-color: #222;
+    color: #ffbb22;
+    
+}
+

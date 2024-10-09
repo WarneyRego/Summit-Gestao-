@@ -1,0 +1,44 @@
+
+.home_container{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 4em;
+   
+}
+.comece{
+    font-size: 15pt;
+    color: #ffbb33;
+   padding:0.6em;
+   background-color: #222; 
+   text-decoration: none;
+   transition: 500ms;
+   border-radius: 10px;
+  font-weight: bold;
+   
+}
+.comece:hover{
+   font-size: 17pt;
+ 
+}
+.home_container img{
+    width: 350px;
+    margin: 2em;
+}
+.h1{
+    font-size: 2.5em;
+    margin-bottom: .5em;
+    }
+    .span{
+        color: #ffbb33;
+   padding:0 0.2em;
+   background-color: #222; 
+    }
+    a{
+        transition: linear 300ms;
+    }
+   a:hover{
+    font-size: 15pt;
+   }
